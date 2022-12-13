@@ -66,13 +66,17 @@ a{
 }
 
 button{
-    align-self: flex-start;
+
     background-color: #3882f6;
     color: #ffffff;
     padding: 10px 28px;
     font-size: 18px;
     border-radius: 8px;
     border: 0;
+}
+
+.hero>button{
+    align-self: flex-start;
 }
 
 /* section 2 */
@@ -88,6 +92,7 @@ button{
     display: flex;
     margin-right: -15px;
     gap: 5px;
+    flex-wrap: wrap;
 }
 
 figcaption{
@@ -141,7 +146,7 @@ blockquote{
 }
 
 /* section 4 */
-/* .section4{
+.section4{
     display:flex;
     justify-content: center;
     align-items: center;
@@ -150,28 +155,28 @@ blockquote{
     display: flex;
     background-color: #3882f6;
     color:#e5e7eb;
-    justify-content: center;
-    padding: 10px 3cm;
+    justify-content:space-around;
+    padding: 18px 3cm;
     margin: 3cm auto;
     border-radius: 10px;
+    align-items: center;
 }
 
-.island>button{
+.island > button{
     border: solid;
     border-color: #ffffff;
     border-width: 2px;
-}
-
-.call{
-    display:flex;
-    flex-direction: column;
 }
 
 .call-to-action{
     font-size: 24px;
     font-weight: 600;
     margin-bottom: -5px;
-} */
+}
+
+.call{
+    margin-right: 5cm;
+}
 
 /* footer */
 .footer{
