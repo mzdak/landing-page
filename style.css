@@ -39,7 +39,7 @@ a{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-bottom: 32px;
+    padding: 100px;
 }
 
 .hero{
@@ -81,7 +81,7 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 28px;
+    padding: 100px;
 }
 
 .images{
@@ -115,3 +115,29 @@ figure>img{
     border-color: #3882f6;
     border-radius: 10%;
 }
+
+/* section 3 */
+.section3{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+blockquote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    width: 70vw;
+}
+
+.reference{
+    font-size: 28px;
+    font-weight: 600;
+    margin-right:-18cm;
+    margin-top: -1cm;
+}
+
+/* section 4 */
