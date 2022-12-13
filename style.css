@@ -61,8 +61,8 @@ a{
 }
 
 .hero-image{
-    width: 300px;
-    height: 150px;
+    width: 12cm;
+    height: auto;
 }
 
 button{
@@ -141,3 +141,44 @@ blockquote{
 }
 
 /* section 4 */
+/* .section4{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.island{
+    display: flex;
+    background-color: #3882f6;
+    color:#e5e7eb;
+    justify-content: center;
+    padding: 10px 3cm;
+    margin: 3cm auto;
+    border-radius: 10px;
+}
+
+.island>button{
+    border: solid;
+    border-color: #ffffff;
+    border-width: 2px;
+}
+
+.call{
+    display:flex;
+    flex-direction: column;
+}
+
+.call-to-action{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: -5px;
+} */
+
+/* footer */
+.footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    place-content: center;
+    padding: 40px;
+    font-size:larger;
+}
