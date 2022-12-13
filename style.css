@@ -67,4 +67,10 @@ a{
 
 button{
     align-self: flex-start;
+    background-color: #3882f6;
+    color: #ffffff;
+    padding: 10px 28px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 0;
 }
