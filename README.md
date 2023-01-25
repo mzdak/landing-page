@@ -5,5 +5,5 @@ While a bit challenging, it was a fun little project.
 
 Even though it wasnt required, i tried to keep the website as close to the sample provided as possible.
 
-My current worries are whether I used best practises. I'm pretty sure my code contains a lot of useless statements
-which probably don't do anything.
+Being the first project, I'm sure there are a lot of issues with the code and logic used. I intend to get 
+back to all of my projects and refactor them eventually. 
